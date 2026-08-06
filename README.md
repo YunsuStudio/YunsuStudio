@@ -32,7 +32,7 @@ Goal      Make technology simple, practical, and delightful
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,python,c,java,js,ts,vue,nodejs,git,docker,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,c,java,js,ts,vue,nodejs,nextjsgit,docker,github&perline=6)](https://skillicons.dev)
 
 </div>
 
