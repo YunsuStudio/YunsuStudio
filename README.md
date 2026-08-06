@@ -47,8 +47,6 @@ Goal      Make technology simple, practical, and delightful
 
 <img src="https://streak-stats.demolab.com?user=YunsuStudio&hide_border=true&background=00000000&ring=22C55E&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=64748B&dates=64748B&currStreakNum=18181B&sideNums=18181B" alt="GitHub streak">
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YunsuStudio&bg_color=00000000&color=64748b&line=22c55e&point=06b6d4&area=true&hide_border=true" alt="Contribution graph">
-
 </div>
 
 ## Contribution Journey
