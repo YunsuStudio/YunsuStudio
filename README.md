@@ -16,12 +16,12 @@
 
 ```text
 Name      YunSu.云溯
-Focus     Web Development / Android Development / Reverse Engineering / Embedded Development
+Focus     Web Development / Android Development / Reverse Engineering / Embedded Development / Crack（end）
 Status    Learning, building, and shipping
 Goal      Make technology simple, practical, and delightful
 ```
 
-你好，我是 **云溯**，理想与现实结合的开发者，知行合一的标准。
+你好，我是 **云溯**，理想与现实结合，知行合一的一位萌新开发者。
 
 - 正在专注于现代产品开发与实用工具
 - 持续学习新的技术，并用项目验证想法
