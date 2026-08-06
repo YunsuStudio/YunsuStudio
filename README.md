@@ -68,7 +68,7 @@ Goal      Make technology simple, practical, and delightful
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/YunsuStudio/YunsuStudio/tree/gh-pages/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/YunsuStudio/YunsuStudio/blob/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
