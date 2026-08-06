@@ -15,15 +15,15 @@
 ## About Me
 
 ```text
-Name      Yunsu
-Focus     Web Development / Creative Coding / Useful Tools
+Name      YunSu.云溯
+Focus     Web Development / Android Development / Reverse Engineering / Embedded Development
 Status    Learning, building, and shipping
 Goal      Make technology simple, practical, and delightful
 ```
 
-你好，我是 **Yunsu**，一名喜欢把想法变成作品的开发者。
+你好，我是 **云溯**，理想与现实结合的开发者，知行合一的标准。
 
-- 正在专注于现代 Web 开发与实用工具
+- 正在专注于现代产品开发与实用工具
 - 持续学习新的技术，并用项目验证想法
 - 关注代码质量、产品体验和长期可维护性
 - 欢迎交流有趣的创意与开源项目
@@ -67,8 +67,8 @@ Goal      Make technology simple, practical, and delightful
 ## Contribution Journey
 
 <div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/YunsuStudio/YunsuStudio/blob/gh-pages/github-contribution-grid-snake.svg)
+  
+![Contribution Snake](https://raw.githubusercontent.com/YunsuStudio/YunsuStudio/afd700295b416d856333071d20cbc7dac8244014/github-contribution-grid-snake.svg)
 
 </div>
 
