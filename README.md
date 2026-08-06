@@ -32,20 +32,7 @@ Goal      Make technology simple, practical, and delightful
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,git,github,vscode,docker&perline=6)](https://skillicons.dev)
-
-</div>
-
-## Current Progress
-
-<div align="center">
-
-| Area | Progress |
-|:--|:--|
-| Frontend Engineering | ![80%](https://geps.dev/progress/80?dangerColor=22c55e&warningColor=22c55e&successColor=22c55e) |
-| Backend Development | ![65%](https://geps.dev/progress/65?dangerColor=06b6d4&warningColor=06b6d4&successColor=06b6d4) |
-| UI / UX Design | ![70%](https://geps.dev/progress/70?dangerColor=3b82f6&warningColor=3b82f6&successColor=3b82f6) |
-| Open Source | ![55%](https://geps.dev/progress/55?dangerColor=f59e0b&warningColor=f59e0b&successColor=f59e0b) |
+[![My Skills](https://skillicons.dev/icons?i=kotlin,python,c,java,js,ts,vue,nodejs,git,docker,github&perline=6)](https://skillicons.dev)
 
 </div>
 
