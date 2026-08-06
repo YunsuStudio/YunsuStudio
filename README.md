@@ -40,10 +40,10 @@ Goal      Make technology simple, practical, and delightful
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YunsuStudio&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="96%" src="./profile-summary-card-output/github/0-profile-details.svg" alt="YunsuStudio profile details">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YunsuStudio&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=22c55e&icon_color=06b6d4&text_color=64748b" alt="YunsuStudio's GitHub stats">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunsuStudio&layout=compact&hide_border=true&theme=transparent&title_color=22c55e&text_color=64748b" alt="Most used languages">
+<img height="170" src="./profile-summary-card-output/github/3-stats.svg" alt="YunsuStudio's GitHub stats">
+<img height="170" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Most used languages">
 
 <img src="https://streak-stats.demolab.com?user=YunsuStudio&hide_border=true&background=00000000&ring=22C55E&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=64748B&dates=64748B&currStreakNum=18181B&sideNums=18181B" alt="GitHub streak">
 
